@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArrayList"/>
+	<classpathentry kind="src" path="AsymptoticsExamples"/>
+	<classpathentry kind="src" path="BinarySearchExamples"/>
+	<classpathentry kind="src" path="BinaryTrees"/>
+	<classpathentry kind="src" path="CardDealer"/>
+	<classpathentry kind="src" path="ClassBasics"/>
+	<classpathentry kind="src" path="CommandLine"/>
+	<classpathentry kind="src" path="CompareAndIterate"/>
+	<classpathentry kind="src" path="GenericsExamples"/>
+	<classpathentry kind="src" path="GradeGenerator"/>
+	<classpathentry kind="src" path="GraphicalCard"/>
+	<classpathentry kind="src" path="Graphics"/>
+	<classpathentry kind="src" path="GuessingGame"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Initialization"/>
+	<classpathentry kind="src" path="LinkedList"/>
+	<classpathentry kind="src" path="MergeSort"/>
+	<classpathentry kind="src" path="QuickSort"/>
+	<classpathentry kind="src" path="SimpleFunctions"/>
+	<classpathentry kind="src" path="SortingFundamentals"/>
+	<classpathentry kind="src" path="StacksAndQueues"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
